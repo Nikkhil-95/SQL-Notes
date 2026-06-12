@@ -1,4 +1,4 @@
-# Topic 3: DDL — Data Definition Language
+# Topic 2: DDL — Data Definition Language
 
 ## Definition
 DDL (Data Definition Language) is the subset of SQL used to define, 
